@@ -442,6 +442,8 @@ payload:
   - DOMAIN-SUFFIX,admedia.com
   - DOMAIN-SUFFIX,adnxs.com
   - DOMAIN-SUFFIX,adotmob.com
+  - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,adperium.com
   - DOMAIN-SUFFIX,adriver.ru
   - DOMAIN-SUFFIX,adroll.com
